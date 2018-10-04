@@ -1,0 +1,22 @@
+{
+  "name": "flux-frontend",
+  "version": "1.0.0",
+  "description": "Frontend app for flux (devops) dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no tests specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gs.github.com:GowthamSiddarth/flux-frontend.git"
+  },
+  "keywords": [
+    "React",
+    "Dashboard",
+    "Frontend",
+    "flux",
+    "devops"
+  ],
+  "author": "Gowtham Behara",
+  "license": "MIT"
+}
