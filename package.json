@@ -4,7 +4,8 @@
   "description": "Frontend app for flux (devops) dashboard",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no tests specified\" && exit 1"
+    "test": "echo \"Error: no tests specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,9 @@
     "devops"
   ],
   "author": "Gowtham Behara",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
 }
