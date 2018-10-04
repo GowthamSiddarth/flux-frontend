@@ -1,1 +1,1 @@
-console.log("Simple message");
+import App from './App';
